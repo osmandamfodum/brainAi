@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+pillow
+numpy
+google-generativeai
+altair<5
